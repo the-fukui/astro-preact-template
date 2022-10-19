@@ -38,7 +38,7 @@
     "@astrojs/image": "^0.10.0",
     "@astrojs/prefetch": "^0.0.8",
     "@trivago/prettier-plugin-sort-imports": "^3.3.1",
-    "@types/node": "^18.11.0",
+    "@types/node": "^18.11.2",
     "@typescript-eslint/parser": "^5.40.1",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "astro-compress": "^1.0.12",
